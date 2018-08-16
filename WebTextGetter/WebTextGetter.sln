@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTextGetter", "WebTextGetter\WebTextGetter.csproj", "{B041394E-BFB1-46D2-8001-233B82B74876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B041394E-BFB1-46D2-8001-233B82B74876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B041394E-BFB1-46D2-8001-233B82B74876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B041394E-BFB1-46D2-8001-233B82B74876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B041394E-BFB1-46D2-8001-233B82B74876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E17E0C-8B20-417A-A710-BC8E11ADACBF}
+	EndGlobalSection
+EndGlobal
